@@ -1,0 +1,1 @@
+# RabbitMQ-minimal-example
